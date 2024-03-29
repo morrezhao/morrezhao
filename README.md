@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @morrezhao from pku.
-- 👀 I’m interested in python,c++
-- 🌱 I’m currently learning c++
+- 👋 Hi, I’m @morrezhao from Peking University, Depertment of EECS.
+- 👀 I’m interested in generative model.
+- 🌱 I’m currently learning Rust, topics in AI.
 
 
 <!---
