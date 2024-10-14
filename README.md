@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @morrezhao from Peking University, Depertment of EECS.
-- 👀 I’m interested in generative model.
-- 🌱 I’m currently learning Rust, topics in AI.
+- 👋 Hi, I’m @morrezhao from Peking University, Dept. of EECS.
+- 👀 I’m interested in Generative Model, Large Language Model and AI for Science.
+- 🌱 I’m currently learning Rust, Complier, Machine Learning and do AI research.
 
 
 <!---
